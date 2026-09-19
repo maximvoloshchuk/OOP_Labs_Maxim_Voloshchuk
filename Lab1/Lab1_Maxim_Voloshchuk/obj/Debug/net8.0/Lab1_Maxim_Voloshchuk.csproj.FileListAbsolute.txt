@@ -1,0 +1,14 @@
+C:\Users\maksv\Desktop\dz C++\Lab1_Maxim_Voloshchuk\bin\Debug\net8.0\Lab1_Maxim_Voloshchuk.exe
+C:\Users\maksv\Desktop\dz C++\Lab1_Maxim_Voloshchuk\bin\Debug\net8.0\Lab1_Maxim_Voloshchuk.deps.json
+C:\Users\maksv\Desktop\dz C++\Lab1_Maxim_Voloshchuk\bin\Debug\net8.0\Lab1_Maxim_Voloshchuk.runtimeconfig.json
+C:\Users\maksv\Desktop\dz C++\Lab1_Maxim_Voloshchuk\bin\Debug\net8.0\Lab1_Maxim_Voloshchuk.dll
+C:\Users\maksv\Desktop\dz C++\Lab1_Maxim_Voloshchuk\bin\Debug\net8.0\Lab1_Maxim_Voloshchuk.pdb
+C:\Users\maksv\Desktop\dz C++\Lab1_Maxim_Voloshchuk\obj\Debug\net8.0\Lab1_Maxim_Voloshchuk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksv\Desktop\dz C++\Lab1_Maxim_Voloshchuk\obj\Debug\net8.0\Lab1_Maxim_Voloshchuk.AssemblyInfoInputs.cache
+C:\Users\maksv\Desktop\dz C++\Lab1_Maxim_Voloshchuk\obj\Debug\net8.0\Lab1_Maxim_Voloshchuk.AssemblyInfo.cs
+C:\Users\maksv\Desktop\dz C++\Lab1_Maxim_Voloshchuk\obj\Debug\net8.0\Lab1_Maxim_Voloshchuk.csproj.CoreCompileInputs.cache
+C:\Users\maksv\Desktop\dz C++\Lab1_Maxim_Voloshchuk\obj\Debug\net8.0\Lab1_Maxim_Voloshchuk.dll
+C:\Users\maksv\Desktop\dz C++\Lab1_Maxim_Voloshchuk\obj\Debug\net8.0\refint\Lab1_Maxim_Voloshchuk.dll
+C:\Users\maksv\Desktop\dz C++\Lab1_Maxim_Voloshchuk\obj\Debug\net8.0\Lab1_Maxim_Voloshchuk.pdb
+C:\Users\maksv\Desktop\dz C++\Lab1_Maxim_Voloshchuk\obj\Debug\net8.0\Lab1_Maxim_Voloshchuk.genruntimeconfig.cache
+C:\Users\maksv\Desktop\dz C++\Lab1_Maxim_Voloshchuk\obj\Debug\net8.0\ref\Lab1_Maxim_Voloshchuk.dll
