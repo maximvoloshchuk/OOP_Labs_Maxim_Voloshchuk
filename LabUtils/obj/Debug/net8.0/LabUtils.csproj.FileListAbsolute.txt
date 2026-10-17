@@ -1,0 +1,11 @@
+C:\Users\maksv\Desktop\dz C++\LabUtils\bin\Debug\net8.0\LabUtils.deps.json
+C:\Users\maksv\Desktop\dz C++\LabUtils\bin\Debug\net8.0\LabUtils.dll
+C:\Users\maksv\Desktop\dz C++\LabUtils\bin\Debug\net8.0\LabUtils.pdb
+C:\Users\maksv\Desktop\dz C++\LabUtils\obj\Debug\net8.0\LabUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksv\Desktop\dz C++\LabUtils\obj\Debug\net8.0\LabUtils.AssemblyInfoInputs.cache
+C:\Users\maksv\Desktop\dz C++\LabUtils\obj\Debug\net8.0\LabUtils.AssemblyInfo.cs
+C:\Users\maksv\Desktop\dz C++\LabUtils\obj\Debug\net8.0\LabUtils.csproj.CoreCompileInputs.cache
+C:\Users\maksv\Desktop\dz C++\LabUtils\obj\Debug\net8.0\LabUtils.dll
+C:\Users\maksv\Desktop\dz C++\LabUtils\obj\Debug\net8.0\refint\LabUtils.dll
+C:\Users\maksv\Desktop\dz C++\LabUtils\obj\Debug\net8.0\LabUtils.pdb
+C:\Users\maksv\Desktop\dz C++\LabUtils\obj\Debug\net8.0\ref\LabUtils.dll
