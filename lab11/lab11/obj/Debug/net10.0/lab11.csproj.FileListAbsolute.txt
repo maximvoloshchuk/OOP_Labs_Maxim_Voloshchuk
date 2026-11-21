@@ -1,0 +1,16 @@
+C:\Users\maksv\source\repos\lab11\lab11\obj\Debug\net10.0\lab11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksv\source\repos\lab11\lab11\obj\Debug\net10.0\lab11.AssemblyInfoInputs.cache
+C:\Users\maksv\source\repos\lab11\lab11\obj\Debug\net10.0\lab11.AssemblyInfo.cs
+C:\Users\maksv\source\repos\lab11\lab11\obj\Debug\net10.0\lab11.csproj.CoreCompileInputs.cache
+C:\Users\maksv\source\repos\lab11\lab11\bin\Debug\net10.0\lab11.exe
+C:\Users\maksv\source\repos\lab11\lab11\bin\Debug\net10.0\lab11.deps.json
+C:\Users\maksv\source\repos\lab11\lab11\bin\Debug\net10.0\lab11.runtimeconfig.json
+C:\Users\maksv\source\repos\lab11\lab11\bin\Debug\net10.0\lab11.runtimeconfig.dev.json
+C:\Users\maksv\source\repos\lab11\lab11\bin\Debug\net10.0\lab11.dll
+C:\Users\maksv\source\repos\lab11\lab11\bin\Debug\net10.0\lab11.pdb
+C:\Users\maksv\source\repos\lab11\lab11\obj\Debug\net10.0\lab11.dll
+C:\Users\maksv\source\repos\lab11\lab11\obj\Debug\net10.0\refint\lab11.dll
+C:\Users\maksv\source\repos\lab11\lab11\obj\Debug\net10.0\lab11.pdb
+C:\Users\maksv\source\repos\lab11\lab11\obj\Debug\net10.0\lab11.genruntimeconfig.cache
+C:\Users\maksv\source\repos\lab11\lab11\obj\Debug\net10.0\ref\lab11.dll
+C:\Users\maksv\source\repos\lab11\lab11\obj\Debug\net10.0\lab11.csproj.Up2Date
